@@ -1,6 +1,5 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-// const shapes = require("./lib/shape.js");
 const { Square, Circle, Triangle } = require("./lib/shape.js");
 
 const questions = [
