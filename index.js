@@ -28,7 +28,7 @@ const questions = [
 function writeFile(filename, logo) {
     fs.writeFile(`./example-svg/${filename}.svg`, logo, (err) => {
         if (err) throw err;
-        console.log('File has been created');
+        console.log('Generated logo.svg');
     });
 }
 
