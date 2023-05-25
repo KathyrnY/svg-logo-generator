@@ -25,16 +25,16 @@ This logo generator is a command line application that will allow a user to gene
 1) Clone this repo or fork this repo
 2) Navigate to the path of this project directory in your terminal.
 3) Install the dependencies
-*npm install
+* npm install
 * npm inquirer
 * npm install jest --global
 
 ## Usage 
 To use this application simply enter node index.js in your terminal and answer the following prompts. 
 
- ## Credits
+## Credits
   
-  UNC Chapel Hill Bootcamp
+UNC Chapel Hill Bootcamp
 
 ## License
 
