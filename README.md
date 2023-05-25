@@ -19,6 +19,7 @@ This logo generator is a command line application that will allow a user to gene
 
 ## Visual 
 
+[screen-capture.webm](https://github.com/KathyrnY/svg-logo-generator/assets/127566404/2cdb8347-6531-4056-8e56-34fafdb2b3a3)
 
 
 ## Installation 
